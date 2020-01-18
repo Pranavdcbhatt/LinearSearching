@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LinearSearching
+comment1.params=
+comment1.target=void\ main()
+comment2.params=array\ length\ element
+comment2.target=int\ Result(int[],\ int,\ int)
+numComments=3
